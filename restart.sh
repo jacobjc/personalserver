@@ -48,8 +48,7 @@ if screen -list | grep -q "minecraftbe"; then
     sleep 10
 fi
 
-echo "Sleeping for 2 minutes for backup to complete!"
+#Wait for 2mins for backup to GitHub
 sleep 120
 # Start server
-echo "Starting server..."
 /bin/bash /root/minecraftbe/start.sh
