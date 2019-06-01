@@ -1,8 +1,9 @@
-Debug_Log.txt[2019-06-01 17:16:38 INFO] Starting Server
-[2019-06-01 17:16:38 INFO] Version 1.11.4.2
-[2019-06-01 17:16:38 INFO] Level Name: HSR
-[2019-06-01 17:16:38 INFO] Game mode: 0 Survival
-[2019-06-01 17:16:38 INFO] Difficulty: 2 NORMAL
-[2019-06-01 17:16:40 INFO] IPv4 supported, port: 19132
-[2019-06-01 17:16:40 INFO] IPv6 supported, port: 19133
-[2019-06-01 17:16:42 INFO] Server started.
+Debug_Log.txt[2019-06-01 17:18:10 INFO] Starting Server
+[2019-06-01 17:18:10 INFO] Version 1.11.4.2
+[2019-06-01 17:18:10 INFO] Level Name: HSR
+[2019-06-01 17:18:10 INFO] Game mode: 0 Survival
+[2019-06-01 17:18:10 INFO] Difficulty: 2 NORMAL
+[2019-06-01 17:18:12 INFO] IPv4 supported, port: 19132
+[2019-06-01 17:18:12 INFO] IPv6 supported, port: 19133
+[2019-06-01 17:18:14 INFO] Server started.
+[2019-06-01 17:18:57 INFO] Player connected: RetroSwagSauce, xuid: 2535405680080302
